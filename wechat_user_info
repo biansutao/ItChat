@@ -1,0 +1,36 @@
+
+
+搜索用户函数“search_friends” 只能根据"nickName","remarkName"来搜索，name，userName，wechatAccount已无法使用。
+
+用户信息：
+UserName @249472486daa29f3b233e48364e2f32de807a7a3d011bbe41297178505c34cf4  （用户名称进行了编码）
+City Melbourne （所在城市，用户自己选择的不是真实城市）
+DisplayName   （未知）
+UniFriend 0  （未知）
+MemberList []  （未知）
+PYQuanPin xiximashenghuoguan  （昵称专为拼音）
+RemarkPYInitial LP  （备注拼音首字母）
+Uin 0  （未知）
+AppAccountFlag 0   （未知）
+VerifyFlag 0  （未知）
+Province Victoria  （省份信息，国外不准确）
+KeyWord   （未知）
+RemarkName 老婆  （备注名称）
+PYInitial XXMSHG  （昵称首字母缩写）
+ChatRoomId 0  （未知）
+IsOwner 0  （未知）
+HideInputBarFlag 0 （未知）
+EncryChatRoomId  （未知）
+AttrStatus 102437 （未知）
+SnsFlag 1  （未知）
+MemberCount 0  （未知）
+OwnerUin 0  （未知）
+Alias （未知）
+Signature 美国日本澳洲德国全球 （个性化签名）
+ContactFlag 3  （未知）
+NickName 希希妈生活馆  （昵称）
+RemarkPYQuanPin laopo （备注拼音）
+HeadImgUrl /cgi-bin/mmwebwx-bin/webwxgeticon?seq=666378730&username=@249472486daa29f3b233e48364e2f32de807a7a3d011bbe41297178505c34cf4&skey=@crypt_3c4d10bb_ce09a386ced3472a119539ba0108d5e6 （头像图片地址）
+Sex 2 （性别 2:女性 1:男性）
+StarFriend 0 （未知）
+Statues 0 （未知）
