@@ -2,6 +2,9 @@
 
 搜索用户函数“search_friends” 只能根据"nickName","remarkName"来搜索，name，userName，wechatAccount已无法使用。
 
+itchat.search_friends() #获取用户自己的信息
+
+
 用户信息：
 UserName @249472486daa29f3b233e48364e2f32de807a7a3d011bbe41297178505c34cf4  （用户名称进行了编码）
 City Melbourne （所在城市，用户自己选择的不是真实城市）
